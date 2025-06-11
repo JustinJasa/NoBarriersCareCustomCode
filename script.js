@@ -76,5 +76,6 @@ document.addEventListener("DOMContentLoaded", function () {
   servicesCardTrigger();
   photosTrigger();
   faqTrigger();
+  console.log("Custom code loaded successfully");
 });
 
