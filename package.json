@@ -1,0 +1,15 @@
+{
+  "name": "nobarrierscarecustomcode",
+  "version": "1.0.0",
+  "description": "Animation Code Environments for Client Webflow Sites",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.13.0"
+  }
+}
