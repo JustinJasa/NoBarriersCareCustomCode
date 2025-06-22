@@ -4,7 +4,8 @@
   "description": "Animation Code Environments for Client Webflow Sites",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel script.js"
+    "start": "parcel script.js", 
+    "build": "npx parcel build script.js --dist-dir dist --no-content-hash"
   },
   "keywords": [],
   "author": "",
