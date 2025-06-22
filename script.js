@@ -36,7 +36,6 @@ function servicesCardTrigger() {
     y: "1rem",
     stagger: { amount: 0.4 },
     duration: 2,
-    from: "start",
   });
 }
 
@@ -65,7 +64,6 @@ function faqTrigger() {
     y: "1rem",
     stagger: { amount: 0.4 },
     duration: 1.5,
-    from: "start",
   });
 }
 
@@ -76,6 +74,5 @@ document.addEventListener("DOMContentLoaded", function () {
   servicesCardTrigger();
   photosTrigger();
   faqTrigger();
-  console.log("Custom code loaded successfully");
 });
 
